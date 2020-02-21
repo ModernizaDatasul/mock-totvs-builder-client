@@ -1,0 +1,44 @@
+{
+    "entityName": "customer",
+    "entityLabel": "Cliente",
+    "keys": [
+        "code"
+    ],
+    "database": [
+        {
+            "code": 1,
+            "shortName": "João",
+            "name": "Joãozinho Maria da Silva",
+            "country": "BRA",
+            "status": 2
+        },
+        {
+            "code": 2,
+            "shortName": "Maria",
+            "name": "Maria Barbosa",
+            "country": "BRA",
+            "status": 1
+        },
+        {
+            "code": 3,
+            "shortName": "Adonias",
+            "name": "Adonias Oliveira",
+            "country": "USA",
+            "status": 2
+        },
+        {
+            "code": 4,
+            "shortName": "Chinfronésio",
+            "name": "Chinfronésio Pereira Filho",
+            "country": "CHI",
+            "status": 1
+        },
+        {
+            "code": 5,
+            "shortName": "Intrometido",
+            "name": "Intrometido que Veio de Fora",
+            "country": "ARG",
+            "status": 2
+        }
+    ]
+}

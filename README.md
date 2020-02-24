@@ -2,7 +2,7 @@
 Projeto utilizado para executa o **mock-totvs-builder**
 
 # Documentação do Mock Totvs Builder
-A documentação está disponível em: <ENDEREÇO-DO-GITRUB>
+A documentação está disponível em:<br>https://github.com/ModernizaDatasul/mock-totvs-builder/
 
 # Preparando as Entidades
 1. Criar uma arquivo de configuração para cada entidade que será utilizada;

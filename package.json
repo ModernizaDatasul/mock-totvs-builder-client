@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mock-totvs-builder": "^1.0.0"
+    "mock-totvs-builder": "^1.0.2"
   }
 }

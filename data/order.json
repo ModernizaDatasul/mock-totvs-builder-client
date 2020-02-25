@@ -2,12 +2,14 @@
     "entityName": "order",
     "entityLabel": "Pedido",
     "keys": [
+        "customer",
         "ordNumber"
     ],
+    "base64Key": false,
     "database": [
         {
-            "ordNumber": 1,
             "customer": 1,
+            "ordNumber": 1,
             "issueDate": "2019-12-10",
             "ordValue": 3433.23,
             "status": 1,
@@ -16,7 +18,7 @@
                     "seq": 1,
                     "item": "Borracha",
                     "qtd": 10,
-                    "itemValue": 32.30
+                    "itemValue": 32.3
                 },
                 {
                     "seq": 2,
@@ -33,8 +35,8 @@
             ]
         },
         {
-            "ordNumber": 2,
             "customer": 1,
+            "ordNumber": 2,
             "issueDate": "2019-12-11",
             "ordValue": 773.52,
             "status": 2,
@@ -43,7 +45,7 @@
                     "seq": 1,
                     "item": "Caneta",
                     "qtd": 3,
-                    "itemValue": 4.60
+                    "itemValue": 4.6
                 },
                 {
                     "seq": 2,
@@ -54,8 +56,8 @@
             ]
         },
         {
-            "ordNumber": 3,
             "customer": 2,
+            "ordNumber": 3,
             "issueDate": "2019-12-09",
             "ordValue": 8411.23,
             "status": 3,

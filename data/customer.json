@@ -32,7 +32,14 @@
             "shortName": "João",
             "name": "Joãozinho Maria da Silva",
             "country": "BRA",
-            "status": 2
+            "status": 2,
+            "contacts": [
+                {
+                    "seq": 1,
+                    "name": "Zezinho",
+                    "phone": "9835-35456"
+                }
+            ]
         },
         {
             "code": 2,

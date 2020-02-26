@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mock-totvs-builder": "^1.0.5"
+    "mock-totvs-builder": "^1.0.5",
+    "nodemon": "^1.19.3"
   }
 }

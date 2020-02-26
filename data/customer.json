@@ -46,7 +46,8 @@
             "shortName": "Maria",
             "name": "Maria Barbosa",
             "country": "BRA",
-            "status": 1
+            "status": 1,
+            "contacts": []
         },
         {
             "code": 3,

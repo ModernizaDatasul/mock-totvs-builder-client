@@ -33,13 +33,7 @@
             "name": "Joãozinho Maria da Silva",
             "country": "BRA",
             "status": 2,
-            "contacts": [
-                {
-                    "seq": 1,
-                    "name": "Zezinho",
-                    "phone": "9835-35456"
-                }
-            ]
+            "contacts": []
         },
         {
             "code": 2,
@@ -134,6 +128,13 @@
             "name": "Um outro qualquer 3",
             "country": "BRA",
             "status": 3
+        },
+        {
+            "code": 3,
+            "shortName": "Adonias",
+            "name": "Adonias Oliveira",
+            "country": "USA",
+            "status": 2
         }
     ]
 }
